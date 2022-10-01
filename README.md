@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AzanaA
-- 👀 I’m interested in anime, managa anf video games
-- 🌱 I’m currently learning Web Developement and Microsoft Azure 
-- 💞️ I’m looking to collaborate on any websites or mobile apps 
+- 👀 I’m interested in anime, manga and video games
+- 🌱 I’m currently learning Software Developement and Microsoft Azure 
+- 💞️ I’m looking to collaborate on any reactive websites or mobile apps 
 - 📫 How to reach me: azanaalleyne@gmail.com 
 
 <!---
